@@ -1,0 +1,50 @@
+[
+  {
+    "community": 0,
+    "size": 18,
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Belgium",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Israel",
+      "Thailand",
+      "Ireland"
+    ]
+  },
+  {
+    "community": 1,
+    "size": 17,
+    "countries": [
+      "Switzerland",
+      "India",
+      "China",
+      "Canada",
+      "Japan",
+      "Australia",
+      "South Korea",
+      "Brazil",
+      "Indonesia",
+      "Singapore"
+    ]
+  },
+  {
+    "community": 2,
+    "size": 15,
+    "countries": [
+      "United States",
+      "South Africa",
+      "WHO (multilateral)",
+      "Netherlands",
+      "Ghana",
+      "Tanzania",
+      "Zimbabwe",
+      "Kenya",
+      "Uganda",
+      "Nigeria"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "title": "Bibliometric and thematic analysis of global health regulatory reliance, harmonization, and medicines access (2000-2025): derived data and code",
+  "upload_type": "software",
+  "description": "Companion data and reproducible code for a bibliometric and thematic review of global health regulatory reliance, harmonization, and medicines access (2000-2025), submitted to Health Policy and Planning. Contains the 2,063-record derived corpus (local-library provenance anonymized), PRISMA 2020 transparency file, bibliometric/network analysis outputs, and the Python pipeline that generates them. Raw API dumps and copyrighted reference-example PDFs are excluded.",
+  "creators": [
+    {
+      "name": "Kong, Deyu",
+      "affiliation": "[AFFILIATION — finalize before publish]",
+      "orcid": "[ORCID — optional]"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "[Co-author 2]",
+      "type": "Other",
+      "affiliation": "[AFFILIATION]"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "bibliometrics",
+    "regulatory reliance",
+    "harmonization",
+    "medicines access",
+    "global health",
+    "health policy",
+    "PRISMA 2020",
+    "systematic review"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/kongdeyu0819-rgb/global-health-regulatory-bibliometrics",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "health-policy-planning"
+    }
+  ],
+  "notes": "Creators/contributors and related GitHub URL must be finalized before publishing the Zenodo archive. The GitHub URL above assumes the repository is named global-health-regulatory-bibliometrics; update if renamed.",
+  "version": "1.0"
+}

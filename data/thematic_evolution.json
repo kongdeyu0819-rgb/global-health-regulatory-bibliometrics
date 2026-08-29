@@ -1,0 +1,109 @@
+{
+  "windows": [
+    "2000-2009",
+    "2010-2017",
+    "2018-2026"
+  ],
+  "keywords": {
+    "Essential": [
+      40,
+      42,
+      80
+    ],
+    "Universal Health Insurance": [
+      0,
+      85,
+      79
+    ],
+    "Pharmaceutical Preparations": [
+      17,
+      52,
+      64
+    ],
+    "Health Services Accessibility": [
+      2,
+      33,
+      63
+    ],
+    "Health Policy": [
+      0,
+      11,
+      59
+    ],
+    "Drug Information Services": [
+      9,
+      24,
+      32
+    ],
+    "Vaccines": [
+      3,
+      7,
+      51
+    ],
+    "Delivery of Health Care": [
+      0,
+      17,
+      36
+    ],
+    "World Health Organization": [
+      2,
+      3,
+      46
+    ],
+    "Drug Utilization": [
+      8,
+      8,
+      34
+    ],
+    "Quality Control": [
+      2,
+      9,
+      34
+    ],
+    "Drug Industry": [
+      3,
+      15,
+      25
+    ],
+    "Child": [
+      4,
+      10,
+      29
+    ],
+    "Guideline": [
+      12,
+      7,
+      19
+    ],
+    "Public Health": [
+      1,
+      12,
+      21
+    ],
+    "Drug and Narcotic Control": [
+      8,
+      2,
+      20
+    ],
+    "Drug Costs": [
+      9,
+      7,
+      12
+    ],
+    "In Vitro Techniques": [
+      0,
+      3,
+      26
+    ],
+    "COVID-19": [
+      0,
+      0,
+      28
+    ],
+    "Europe": [
+      1,
+      10,
+      16
+    ]
+  }
+}

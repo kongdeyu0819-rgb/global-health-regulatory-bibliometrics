@@ -1,0 +1,31 @@
+keyword,total,early(<=2014),late(>=2015),late_share,burst_score
+Universal Health Insurance,164,26,138,0.84,56.0
+Health Services Accessibility,98,13,85,0.87,36.0
+Health Policy,70,2,68,0.97,33.0
+Vaccines,61,6,55,0.9,24.5
+Delivery of Health Care,53,5,48,0.91,21.5
+World Health Organization,51,5,46,0.9,20.5
+Pharmaceutical Preparations,139,50,89,0.64,19.5
+Essential,165,63,102,0.62,19.5
+Quality Control,46,7,39,0.85,16.0
+In Vitro Techniques,29,0,29,1.0,14.5
+COVID-19,28,0,28,1.0,14.0
+Public Health,34,4,30,0.88,13.0
+Meeting Abstract,26,0,26,1.0,13.0
+Child,43,9,34,0.79,12.5
+Europe,28,2,26,0.93,12.0
+Drug Utilization,50,13,37,0.74,12.0
+Drug Development,23,0,23,1.0,11.5
+Diagnostic Equipment,25,1,24,0.96,11.5
+Pharmacovigilance,20,0,20,1.0,10.0
+Pharmaceutical,28,4,24,0.86,10.0
+Health Care,24,2,22,0.92,10.0
+Drug Industry,46,13,33,0.72,10.0
+Primary Health Care,24,2,22,0.92,10.0
+Equipment and Supplies,21,1,20,0.95,9.5
+Clinical Trials,18,0,18,1.0,9.0
+Biological Products,20,1,19,0.95,9.0
+Health Priorities,22,2,20,0.91,9.0
+Healthcare Financing,24,3,21,0.88,9.0
+Covid-19,17,0,17,1.0,8.5
+Conditional Approval,19,1,18,0.95,8.5

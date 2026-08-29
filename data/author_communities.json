@@ -1,0 +1,98 @@
+[
+  {
+    "community": 0,
+    "size": 17,
+    "top_authors": [
+      "Stuart Walker",
+      "Sam Salek",
+      "Margareth Ndomondo-Sigonda",
+      "Nancy Ngum",
+      "Lawrence Liberti",
+      "Neil McAuslane",
+      "Mercy Owusu-Asante",
+      "Samvel Azatyan"
+    ]
+  },
+  {
+    "community": 1,
+    "size": 9,
+    "top_authors": [
+      "Kieny, Marie Paule",
+      "Tangcharoensathien, Viroj",
+      "Magrini, Nicola",
+      "Boerma, Ties",
+      "Evans, David B",
+      "Moja, Lorenzo",
+      "Cometto, Giorgio",
+      "Patcharanarumol, Walaiporn"
+    ]
+  },
+  {
+    "community": 2,
+    "size": 6,
+    "top_authors": [
+      "Masayuki Nomura",
+      "Yoshie Tsurumaki",
+      "Koji Takakura",
+      "Masaaki Miyano",
+      "Hiroshi Karasawa",
+      "Yuu Moriya"
+    ]
+  },
+  {
+    "community": 3,
+    "size": 6,
+    "top_authors": [
+      "Sonia Pagliusi",
+      "Nora Dellepiane",
+      "Norbert De Clercq",
+      "Thierry Gastineau",
+      "Mic McGoldrick",
+      "Jyothsna Krishnan"
+    ]
+  },
+  {
+    "community": 4,
+    "size": 3,
+    "top_authors": [
+      "Elina Urli Hodges",
+      "Krishna Udayakumar",
+      "Wenhui Mao"
+    ]
+  },
+  {
+    "community": 5,
+    "size": 3,
+    "top_authors": [
+      "Admire Dube",
+      "Bakani Mark Ncube",
+      "Kim Ward"
+    ]
+  },
+  {
+    "community": 6,
+    "size": 3,
+    "top_authors": [
+      "World Health Organization. Regional Office for Europe",
+      "European Observatory on Health Systems and Policies",
+      "Panteli, Dimitra"
+    ]
+  },
+  {
+    "community": 7,
+    "size": 3,
+    "top_authors": [
+      "World Health Organization",
+      "International Bank for Reconstruction and Development",
+      "Kutzin, Joseph"
+    ]
+  },
+  {
+    "community": 8,
+    "size": 2,
+    "top_authors": [
+      "Rhonda M Cooper-DeHoff",
+      "Alex M Ebied"
+    ]
+  }
+]

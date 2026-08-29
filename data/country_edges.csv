@@ -1,0 +1,558 @@
+country_a,country_b,weight
+United Kingdom,United States,36
+Switzerland,WHO (multilateral),32
+Switzerland,United States,28
+Switzerland,United Kingdom,23
+South Africa,United Kingdom,19
+Germany,United Kingdom,15
+Belgium,Switzerland,15
+Netherlands,United Kingdom,14
+South Africa,United States,14
+United States,WHO (multilateral),14
+Germany,Switzerland,13
+Belgium,United Kingdom,13
+France,United States,13
+South Africa,Tanzania,13
+Ghana,United Kingdom,12
+India,Switzerland,12
+India,United States,12
+Canada,United States,12
+Australia,United Kingdom,12
+Belgium,United States,12
+Brazil,Switzerland,12
+France,United Kingdom,12
+South Africa,Switzerland,12
+India,United Kingdom,11
+United Kingdom,WHO (multilateral),11
+South Africa,WHO (multilateral),11
+Spain,United Kingdom,10
+Brazil,United Kingdom,10
+Belgium,France,10
+France,Switzerland,10
+Tanzania,United Kingdom,10
+France,India,9
+Italy,United Kingdom,9
+Netherlands,Switzerland,9
+Belgium,Germany,9
+Canada,Switzerland,9
+France,Germany,9
+United Kingdom,Zimbabwe,9
+Kenya,United Kingdom,8
+Australia,United States,8
+South Africa,Uganda,8
+Uganda,United States,8
+Canada,United Kingdom,8
+Kenya,South Africa,8
+Kenya,United States,7
+South Korea,United States,7
+Germany,Netherlands,7
+Germany,Spain,7
+Spain,Switzerland,7
+Italy,United States,7
+Netherlands,United States,7
+Belgium,Brazil,7
+Brazil,France,7
+Brazil,United States,7
+Sweden,United Kingdom,7
+South Africa,Zimbabwe,7
+Kenya,Tanzania,7
+Germany,United States,6
+Netherlands,Spain,6
+Belgium,Netherlands,6
+Brazil,India,6
+Canada,Netherlands,6
+Brazil,Canada,6
+Kenya,Uganda,6
+India,South Korea,6
+Ghana,South Africa,6
+Indonesia,United States,6
+WHO (multilateral),Zimbabwe,5
+Thailand,United Kingdom,5
+Italy,Switzerland,5
+Kenya,Switzerland,5
+Austria,Germany,5
+Germany,Italy,5
+China,United States,5
+Belgium,Canada,5
+Belgium,Italy,5
+Belgium,Spain,5
+Nigeria,United Kingdom,5
+Canada,WHO (multilateral),5
+Netherlands,South Africa,5
+Tanzania,Uganda,5
+Uganda,United Kingdom,5
+Ireland,United Kingdom,5
+Ireland,United States,5
+Japan,South Korea,5
+Singapore,United States,5
+Belgium,India,5
+Ghana,United States,4
+South Korea,Switzerland,4
+India,Saudi Arabia,4
+Austria,Italy,4
+Austria,Netherlands,4
+Austria,United Kingdom,4
+Denmark,Netherlands,4
+Australia,Japan,4
+Japan,United Kingdom,4
+Japan,United States,4
+Germany,Norway,4
+Germany,Sweden,4
+Spain,United States,4
+South Korea,United Kingdom,4
+Ghana,Switzerland,4
+Ghana,WHO (multilateral),4
+Indonesia,Switzerland,4
+Belgium,Norway,4
+France,Norway,4
+Uganda,WHO (multilateral),4
+Australia,Canada,4
+Canada,Japan,4
+Brazil,Germany,4
+Canada,France,4
+Canada,Germany,4
+Nigeria,United States,4
+Austria,Belgium,4
+Switzerland,Zimbabwe,4
+India,Indonesia,4
+Japan,Switzerland,4
+Tanzania,WHO (multilateral),4
+Australia,France,3
+Ethiopia,WHO (multilateral),3
+Ethiopia,Zimbabwe,3
+Italy,Romania,3
+Germany,India,3
+Senegal,United States,3
+India,Malaysia,3
+Austria,Switzerland,3
+Denmark,Switzerland,3
+Germany,Poland,3
+Italy,Spain,3
+Poland,Switzerland,3
+Poland,United Kingdom,3
+Poland,United States,3
+Israel,Italy,3
+Israel,United States,3
+Ethiopia,Sweden,3
+Brazil,WHO (multilateral),3
+India,WHO (multilateral),3
+France,Spain,3
+Ghana,Nigeria,3
+China,Germany,3
+China,United Kingdom,3
+Ethiopia,United States,3
+Germany,Ghana,3
+Indonesia,WHO (multilateral),3
+Netherlands,Sweden,3
+Finland,United Kingdom,3
+Japan,Netherlands,3
+Austria,France,3
+Austria,United States,3
+France,Italy,3
+Norway,Switzerland,3
+Norway,United Kingdom,3
+Norway,United States,3
+Ethiopia,Netherlands,3
+Netherlands,Zimbabwe,3
+Italy,Sweden,3
+India,Japan,3
+India,Taiwan,3
+Japan,Taiwan,3
+South Korea,Taiwan,3
+Kenya,Netherlands,3
+Indonesia,United Kingdom,3
+Singapore,United Kingdom,3
+Belgium,South Africa,3
+Belgium,WHO (multilateral),3
+France,South Africa,3
+France,WHO (multilateral),3
+Japan,WHO (multilateral),3
+Ghana,Kenya,3
+Switzerland,Uganda,3
+France,Netherlands,3
+Denmark,United States,3
+Belgium,Japan,3
+Brazil,Japan,3
+China,Switzerland,3
+Canada,India,3
+Kenya,WHO (multilateral),3
+Switzerland,Tanzania,3
+Tanzania,United States,3
+Australia,India,2
+India,Italy,2
+China,India,2
+India,Russia,2
+Austria,Poland,2
+Denmark,Germany,2
+Denmark,Spain,2
+Denmark,United Kingdom,2
+Italy,Netherlands,2
+Italy,Poland,2
+Poland,Spain,2
+New Zealand,United Kingdom,2
+China,South Korea,2
+Canada,Israel,2
+Canada,Italy,2
+Ethiopia,Germany,2
+Bangladesh,India,2
+Egypt,Switzerland,2
+Egypt,United Kingdom,2
+Egypt,WHO (multilateral),2
+Saudi Arabia,United States,2
+Australia,Brazil,2
+Brazil,South Korea,2
+Brazil,Spain,2
+France,South Korea,2
+South Korea,Spain,2
+Canada,Uganda,2
+Ghana,Senegal,2
+Nigeria,Senegal,2
+Senegal,United Kingdom,2
+China,Sweden,2
+Ethiopia,United Kingdom,2
+Germany,South Korea,2
+Sweden,United States,2
+Finland,Netherlands,2
+Finland,Sweden,2
+China,Japan,2
+China,Singapore,2
+Japan,Singapore,2
+Belgium,Poland,2
+France,Ireland,2
+Ireland,Poland,2
+Norway,Poland,2
+Ethiopia,South Africa,2
+Ethiopia,Switzerland,2
+Netherlands,WHO (multilateral),2
+United States,Zimbabwe,2
+France,Sweden,2
+Indonesia,Malaysia,2
+Italy,Thailand,2
+Ethiopia,Kenya,2
+Netherlands,Tanzania,2
+France,Thailand,2
+India,Thailand,2
+Canada,Ireland,2
+Indonesia,South Korea,2
+Australia,Singapore,2
+Australia,Switzerland,2
+Canada,Singapore,2
+Singapore,Switzerland,2
+Japan,Philippines,2
+Philippines,South Korea,2
+Philippines,WHO (multilateral),2
+Germany,Luxembourg,2
+Germany,WHO (multilateral),2
+Ghana,Luxembourg,2
+Luxembourg,Switzerland,2
+Luxembourg,United Kingdom,2
+Luxembourg,WHO (multilateral),2
+Mexico,Switzerland,2
+Ghana,Zimbabwe,2
+Philippines,United Kingdom,2
+Israel,United Kingdom,2
+India,South Africa,2
+Australia,Ireland,2
+Argentina,Belgium,2
+Belgium,China,2
+Belgium,Sweden,2
+Brazil,Netherlands,2
+Canada,China,2
+China,Netherlands,2
+Canada,New Zealand,2
+New Zealand,United States,2
+Belgium,Indonesia,2
+France,Tanzania,2
+Turkey,United Kingdom,2
+Belgium,Finland,2
+India,Mexico,2
+Mexico,United Kingdom,2
+Saudi Arabia,United Kingdom,2
+Tanzania,Zimbabwe,2
+Australia,Pakistan,1
+Germany,Philippines,1
+India,Philippines,1
+Philippines,United States,1
+Kenya,Senegal,1
+Kenya,South Korea,1
+Senegal,South Korea,1
+Senegal,Switzerland,1
+Iran,United Kingdom,1
+China,Russia,1
+Austria,Czech Republic,1
+Austria,Denmark,1
+Austria,Spain,1
+Czech Republic,Denmark,1
+Czech Republic,Germany,1
+Czech Republic,Italy,1
+Czech Republic,Netherlands,1
+Czech Republic,Poland,1
+Czech Republic,Spain,1
+Czech Republic,Switzerland,1
+Czech Republic,United Kingdom,1
+Denmark,Italy,1
+Denmark,Poland,1
+Netherlands,Poland,1
+Malaysia,Saudi Arabia,1
+Kenya,New Zealand,1
+China,Iran,1
+China,Poland,1
+Iran,Poland,1
+Iran,South Korea,1
+Iran,United States,1
+Poland,South Korea,1
+Belgium,Israel,1
+Denmark,Hungary,1
+Germany,Hungary,1
+Hungary,Netherlands,1
+Hungary,Spain,1
+Hungary,United Kingdom,1
+Denmark,India,1
+Ethiopia,Norway,1
+Ethiopia,Uganda,1
+Germany,Uganda,1
+Norway,Sweden,1
+Norway,Uganda,1
+Sweden,Uganda,1
+Bangladesh,Brazil,1
+Bangladesh,Egypt,1
+Bangladesh,Nepal,1
+Bangladesh,Switzerland,1
+Bangladesh,United Kingdom,1
+Bangladesh,WHO (multilateral),1
+Brazil,Egypt,1
+Brazil,Nepal,1
+Egypt,India,1
+Egypt,Nepal,1
+India,Nepal,1
+Nepal,Switzerland,1
+Nepal,United Kingdom,1
+Nepal,WHO (multilateral),1
+India,United Arab Emirates,1
+Saudi Arabia,United Arab Emirates,1
+Australia,Belgium,1
+Australia,South Korea,1
+Australia,Spain,1
+Belgium,South Korea,1
+China,Ethiopia,1
+China,Ghana,1
+Ethiopia,Ghana,1
+Ethiopia,South Korea,1
+Ghana,South Korea,1
+Ghana,Sweden,1
+South Korea,Sweden,1
+Italy,South Africa,1
+Canada,Ghana,1
+Canada,Indonesia,1
+Canada,Pakistan,1
+Ghana,Indonesia,1
+Ghana,Pakistan,1
+Indonesia,Pakistan,1
+Pakistan,Switzerland,1
+Pakistan,WHO (multilateral),1
+Finland,Iceland,1
+Iceland,Netherlands,1
+Iceland,Sweden,1
+Australia,Finland,1
+Australia,Netherlands,1
+Canada,Finland,1
+Finland,Japan,1
+Finland,United States,1
+Austria,Ireland,1
+Austria,Norway,1
+Austria,Tunisia,1
+Belgium,Ireland,1
+Belgium,Tunisia,1
+France,Poland,1
+France,Tunisia,1
+Germany,Ireland,1
+Germany,Tunisia,1
+Ireland,Italy,1
+Ireland,Norway,1
+Ireland,Switzerland,1
+Ireland,Tunisia,1
+Italy,Norway,1
+Italy,Tunisia,1
+Norway,Tunisia,1
+Poland,Tunisia,1
+Switzerland,Tunisia,1
+Tunisia,United Kingdom,1
+Tunisia,United States,1
+France,Portugal,1
+Germany,Portugal,1
+Italy,Portugal,1
+Portugal,Spain,1
+Portugal,Sweden,1
+Portugal,United Kingdom,1
+Spain,Sweden,1
+India,Singapore,1
+India,Sri Lanka,1
+Indonesia,Singapore,1
+Indonesia,Sri Lanka,1
+Malaysia,Singapore,1
+Malaysia,Sri Lanka,1
+Malaysia,United States,1
+Singapore,Sri Lanka,1
+Sri Lanka,United States,1
+Romania,Thailand,1
+Ethiopia,Tanzania,1
+Kenya,Sweden,1
+Sweden,Tanzania,1
+Ethiopia,Spain,1
+Kenya,Spain,1
+Indonesia,Italy,1
+Italy,South Korea,1
+Norway,Spain,1
+Brazil,Norway,1
+Brazil,South Africa,1
+Norway,South Africa,1
+Norway,WHO (multilateral),1
+Indonesia,Japan,1
+Indonesia,Philippines,1
+Japan,Malaysia,1
+Malaysia,Philippines,1
+Malaysia,South Korea,1
+Malaysia,Switzerland,1
+Malaysia,WHO (multilateral),1
+Philippines,Switzerland,1
+South Korea,WHO (multilateral),1
+Ghana,Uganda,1
+Belgium,Ghana,1
+Belgium,Kenya,1
+Mexico,Spain,1
+Nigeria,South Africa,1
+Ghana,Morocco,1
+Ghana,Philippines,1
+Ghana,Thailand,1
+Morocco,Nigeria,1
+Morocco,Philippines,1
+Morocco,Thailand,1
+Morocco,United Kingdom,1
+Morocco,Zimbabwe,1
+Nigeria,Philippines,1
+Nigeria,Thailand,1
+Nigeria,Zimbabwe,1
+Philippines,Thailand,1
+Philippines,Zimbabwe,1
+Thailand,Zimbabwe,1
+France,Uganda,1
+Australia,Israel,1
+Brazil,Israel,1
+Brazil,Singapore,1
+Israel,Singapore,1
+Israel,Switzerland,1
+Israel,Romania,1
+Romania,United Kingdom,1
+Denmark,WHO (multilateral),1
+Australia,Ethiopia,1
+Australia,Senegal,1
+Ethiopia,Senegal,1
+Brazil,Ireland,1
+China,Portugal,1
+Nepal,South Korea,1
+Australia,South Africa,1
+Argentina,Colombia,1
+Belgium,Colombia,1
+Singapore,South Korea,1
+Germany,South Africa,1
+Germany,Tanzania,1
+India,Nigeria,1
+Indonesia,Nigeria,1
+Brazil,China,1
+Brazil,Sweden,1
+Canada,Sweden,1
+Germany,Japan,1
+Japan,Sweden,1
+Sweden,Switzerland,1
+Austria,Canada,1
+Austria,China,1
+Austria,India,1
+Austria,New Zealand,1
+Austria,Thailand,1
+Belgium,New Zealand,1
+Belgium,Thailand,1
+Canada,Thailand,1
+China,France,1
+China,Italy,1
+China,New Zealand,1
+China,Thailand,1
+France,New Zealand,1
+Germany,New Zealand,1
+Germany,Thailand,1
+India,Netherlands,1
+India,New Zealand,1
+Italy,New Zealand,1
+Netherlands,New Zealand,1
+Netherlands,Thailand,1
+New Zealand,Switzerland,1
+New Zealand,Thailand,1
+Switzerland,Thailand,1
+Thailand,United States,1
+Argentina,France,1
+Argentina,India,1
+Argentina,Indonesia,1
+Argentina,Switzerland,1
+Argentina,United States,1
+France,Indonesia,1
+France,Kenya,1
+France,Singapore,1
+Singapore,Sweden,1
+Australia,New Zealand,1
+Ireland,New Zealand,1
+Japan,Thailand,1
+Australia,Philippines,1
+Australia,WHO (multilateral),1
+Norway,Tanzania,1
+Croatia,Germany,1
+Australia,Norway,1
+Ghana,Tanzania,1
+Canada,Spain,1
+Canada,Zimbabwe,1
+Spain,WHO (multilateral),1
+Spain,Zimbabwe,1
+Austria,Finland,1
+Austria,Greece,1
+Austria,Sweden,1
+Belgium,Greece,1
+Finland,Greece,1
+Finland,Italy,1
+Greece,Italy,1
+Greece,Sweden,1
+Greece,United Kingdom,1
+Finland,Germany,1
+Finland,Spain,1
+Australia,Sweden,1
+Belgium,Mexico,1
+Indonesia,Mexico,1
+Indonesia,South Africa,1
+Mexico,South Africa,1
+Mexico,United States,1
+Mexico,WHO (multilateral),1
+Brazil,Saudi Arabia,1
+Brazil,Turkey,1
+France,Saudi Arabia,1
+France,Turkey,1
+Germany,Saudi Arabia,1
+Germany,Turkey,1
+India,Spain,1
+India,Turkey,1
+Saudi Arabia,South Korea,1
+Saudi Arabia,Spain,1
+Saudi Arabia,Switzerland,1
+Saudi Arabia,Turkey,1
+South Korea,Turkey,1
+Spain,Turkey,1
+Switzerland,Turkey,1
+Turkey,United States,1
+Australia,Egypt,1
+Australia,Thailand,1
+Egypt,Thailand,1
+Brazil,Mexico,1
+Brazil,Russia,1
+Mexico,Russia,1
+Russia,United Kingdom,1
+Bangladesh,South Korea,1
+Colombia,Peru,1
+Hungary,Turkey,1
+Senegal,South Africa,1
+Senegal,Uganda,1

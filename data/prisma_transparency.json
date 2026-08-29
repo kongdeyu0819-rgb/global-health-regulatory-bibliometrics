@@ -1,0 +1,19 @@
+{
+  "identified_per_source": {
+    "PubMed (E-utilities)": 1802,
+    "Europe PMC (mechanism)": 6483,
+    "WHO IRIS (mechanism)": 6836,
+    "WHO IRIS (access policy)": 1630,
+    "Europe PMC (UNICEF/WHO policy)": 95
+  },
+  "total_identified": 16846,
+  "local_additional": 50,
+  "duplicates_removed": 2892,
+  "unique_after_dedup": 13954,
+  "excluded_relevance": 11941,
+  "search_included": 2013,
+  "final_included": 2063,
+  "corpus_csv_rows": 2063,
+  "screening_replication_fail": 0,
+  "note": "机制流(PubMed/EPMC/WHO IRIS mechanism)经 is_relevant=HP_TERMS∩CONTEXT 过滤; 可及性政策流(WHO IRIS access / EPMC policy)经 ACCESS_POLICY_RE 过滤; 本地库人工裁定不过滤。漏斗数字以 corpus.csv 为权威反推(残差法), 保证与最终语料自洽。"
+}

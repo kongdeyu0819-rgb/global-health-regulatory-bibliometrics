@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local logs / error traces from the analysis run
+*.log
+*.err
+an.log
+an.err
+
+# Large raw dumps (not part of the published derived snapshot)
+data/raw/
+data/reference_examples/
+
+# Local policy-library working copies (confidential)
+local_library/
+*.local.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
