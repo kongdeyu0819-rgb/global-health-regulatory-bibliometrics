@@ -66,11 +66,11 @@ We acknowledge several constraints. Country coverage is partial (27.3% of record
 
 *Figure 1. PRISMA 2020 flow diagram. [figures/prisma.png]*
 *Figure 2. Annual publication trend, 2000–2025. [figures/trend.png]*
-*Figure 3. Most productive peer-reviewed journals. [figures/_matplotlib_alt/journals_top.png]*
-*Figure 4. Most prolific authors. [figures/_matplotlib_alt/author_bar.png]*
-*Figure 5. Country publication frequency (PubMed-sourced subset, 27.3% coverage). [figures/_matplotlib_alt/country_bar.png]*
-*Figure 6. Keyword co-occurrence clustering into three thematic groups. [figures/_matplotlib_alt/keyword_cluster_bars.png]*
-*Figure 7. Thematic evolution by cluster. [figures/_matplotlib_alt/thematic_evolution.png]*
+*Figure 3. Most productive peer-reviewed journals. [figures/xt_png/bar_journals_h-1.png]*
+*Figure 4. Most prolific authors. [figures/xt_png/bar_authors_h-1.png]*
+*Figure 5. Country publication frequency (PubMed-sourced subset, 27.3% coverage). [figures/xt_png/bar_countries_h-1.png]*
+*Figure 6. Keyword co-occurrence heatmap (Top 25 keywords). [figures/xt_png/heatmap_keywords-1.png]*
+*Figure 7. Thematic evolution by cluster. [figures/xt_png/bar_stack_thematic-1.png]*
 
 ---
 
