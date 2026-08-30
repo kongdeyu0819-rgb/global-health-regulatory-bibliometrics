@@ -66,11 +66,11 @@ We acknowledge several constraints. Country coverage is partial (27.3% of record
 
 *Figure 1. PRISMA 2020 flow diagram. [figures/prisma.png]*
 *Figure 2. Annual publication trend, 2000–2025. [figures/trend.png]*
-*Figure 3. Most productive peer-reviewed journals. [figures/xt/bar_journals_h.pdf]*
-*Figure 4. Most prolific authors. [figures/xt/bar_authors_h.pdf]*
-*Figure 5. Country collaboration frequency. [figures/xt/bar_countries_h.pdf] / Country distribution map. [figures/country_map.png]*
-*Figure 6. Keyword co-occurrence heatmap. [figures/xt/heatmap_keywords.pdf]*
-*Figure 7. Thematic evolution by cluster. [figures/xt/bar_stack_thematic.pdf]*
+*Figure 3. Most productive peer-reviewed journals. [figures/_matplotlib_alt/journals_top.png]*
+*Figure 4. Most prolific authors. [figures/_matplotlib_alt/author_bar.png]*
+*Figure 5. Country publication frequency (PubMed-sourced subset, 27.3% coverage). [figures/_matplotlib_alt/country_bar.png]*
+*Figure 6. Keyword co-occurrence clustering into three thematic groups. [figures/_matplotlib_alt/keyword_cluster_bars.png]*
+*Figure 7. Thematic evolution by cluster. [figures/_matplotlib_alt/thematic_evolution.png]*
 
 ---
 
@@ -94,7 +94,7 @@ Authors most central to the co-authorship network (by collaboration degree) were
 
 ### 3.5 Geographic distribution
 
-Country collaboration frequency (recoverable for 27.3% of the corpus, i.e., the PubMed-subset records carrying affiliation data) was led by the United States (171), United Kingdom (118), and Switzerland (74), followed by India (65) and South Africa (53), Germany (46), China (41), the Netherlands (40), France (37), Canada (36), Belgium (32), Japan (31), and Italy (30) (Figure 5; country-distribution map in supplementary material). Among LMICs, India and South Africa are by far the most prominent collaborating countries, with a second tier of Ghana (17), Tanzania (17), Kenya (15), Zimbabwe (15), Uganda (14), and Nigeria (9). High-income regulators and procurers thus dominate international collaboration, while LMIC participation is concentrated in a few middle-income hubs; the 27.3% affiliation-coverage ceiling means these counts describe the subset for which addresses were recoverable and should be read with caution.
+Country publication frequency (recoverable for 27.3% of the corpus, i.e., the PubMed-subset records carrying affiliation data) was led by the United States (171), United Kingdom (118), and Switzerland (74), followed by India (65) and South Africa (53), Germany (46), China (46), the Netherlands (40), France (37), Canada (36), Belgium (32), Japan (31), and Italy (30) (Figure 5). Hong Kong, Macau, and Taiwan are counted within China. Among LMICs, India and South Africa are by far the most prominent collaborating countries, with a second tier of Ghana (17), Tanzania (17), Kenya (15), Zimbabwe (15), Uganda (14), and Nigeria (9). High-income regulators and procurers thus dominate international collaboration, while LMIC participation is concentrated in a few middle-income hubs; the 27.3% affiliation-coverage ceiling means these counts describe the subset for which addresses were recoverable and should be read with caution.
 
 ### 3.6 Keyword co-occurrence and thematic clusters
 
@@ -243,8 +243,8 @@ Zhou S, Feng X, Hu Y, Yang J, Chen Y, Bastow J, et al. Factors associated with t
 
 **Registration.** This bibliometric review was not registered in PROSPERO. The review protocol is available as supplementary material (see "Supplementary material" below).
 
-**Data and code availability.** The bibliometric corpus was derived from public sources (PubMed, Europe PMC, WHO Institutional Repository for Information Sharing) and a local policy library. The derived 2,063-record metadata table, the PRISMA transparency file (`prisma_transparency.json`), and the analysis scripts are available in a public repository [GitHub: TODO_URL; Zenodo: TODO_DOI]. The local policy-library subset is available from the corresponding author on reasonable request where permissions allow. Search strategies and the qualitative-synthesis coding framework are provided as supplementary material.
+**Data and code availability.** The bibliometric corpus was derived from public sources (PubMed, Europe PMC, WHO Institutional Repository for Information Sharing) and a local policy library. The derived 2,063-record metadata table, the PRISMA transparency file (`prisma_transparency.json`), and the analysis scripts are available in a public repository [GitHub: https://github.com/kongdeyu0819-rgb/global-health-regulatory-bibliometrics; Zenodo: TODO_DOI]. The local policy-library subset is available from the corresponding author on reasonable request where permissions allow. Search strategies and the qualitative-synthesis coding framework are provided as supplementary material.
 
 **Acknowledgements.** [To be added.]
 
-**Supplementary material.** (i) Full search strategies for all sources; (ii) the qualitative-synthesis coding framework for the 40 most-cited records; (iii) the country-distribution map (Figure 5 supplement).
+**Supplementary material.** (i) Full search strategies for all sources; (ii) the qualitative-synthesis coding framework for the 40 most-cited records; (iii) the country publication-frequency bar chart (Figure 5).
