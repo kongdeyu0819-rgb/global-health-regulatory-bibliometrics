@@ -70,7 +70,9 @@ We acknowledge several constraints. Country coverage is partial (27.3% of record
 *Figure 4. Most prolific authors. [figures/xt_png/bar_authors_h-1.png]*
 *Figure 5. Country publication frequency (PubMed-sourced subset, 27.3% coverage). [figures/xt_png/bar_countries_h-1.png]*
 *Figure 6. Keyword co-occurrence heatmap (Top 25 keywords). [figures/xt_png/heatmap_keywords-1.png]*
-*Figure 7. Thematic evolution by cluster. [figures/xt_png/bar_stack_thematic-1.png]*
+*Figure 7. Keyword co-occurrence clustering into three thematic groups. [figures/_matplotlib_alt/keyword_cluster_bars.png]*
+*Figure 8. Thematic evolution by cluster (stacked). [figures/xt_png/bar_stack_thematic-1.png]*
+*Figure 9. Thematic evolution flow between time windows (Sankey). [figures/xt_png/sankey_evolution-1.png]*
 
 ---
 
@@ -98,7 +100,7 @@ Country publication frequency (recoverable for 27.3% of the corpus, i.e., the Pu
 
 ### 3.6 Keyword co-occurrence and thematic clusters
 
-Keyword co-occurrence clustering resolved the literature into three thematic groups (Figure 6):
+Keyword co-occurrence clustering resolved the literature into three thematic groups (Figure 6 heatmap; cluster composition in Figure 7):
 - **Cluster 1 — Access, equity, and essential medicines in LMICs** (n = 34; hub *Essential*): *Essential, Health Policy, Drug Information Services, Drug Utilization, Child, Drug Costs, Developing Countries, Drug Development, Biological Products*. This cluster centers the affordability, availability, and appropriate use of medicines for LMIC populations.
 - **Cluster 2 — Vaccines, quality assurance, and COVID-19** (n = 24; hub *Vaccines*): *Vaccines, World Health Organization, Drug Industry, Quality Control, Guideline, Drug and Narcotic Control, In Vitro Techniques, COVID-19, Diagnostic Equipment, International Cooperation*. This cluster links product quality and pandemic response.
 - **Cluster 3 — Health systems and financing** (n = 22; hub *Universal Health Insurance*): *Universal Health Insurance, Pharmaceutical Preparations, Health Services Accessibility, Delivery of Health Care, Public Health, Healthcare Financing, Health Systems Plans, Primary Health Care, National Health Programs, Insurance*. This cluster frames reliance within health-system and financing architectures.
@@ -109,7 +111,7 @@ Burst detection identified topics rising fastest in the recent period. The stron
 
 ### 3.8 Thematic evolution
 
-Across the three windows, the field's centre of gravity moved markedly (Figure 7). In 2000–2009 the literature was small and anchored on *Essential* (40), *Drug Costs* (9), *Drug Utilization* (8), and *Guideline* (12). In 2010–2017 it expanded around *Universal Health Insurance* (85), *Pharmaceutical Preparations* (52), *Health Services Accessibility* (33), and *Europe* (10). In 2018 onward, *Vaccines* rose from 3 to 51, *World Health Organization* from 2 to 46, *Health Policy* from 0 to 59, *Quality Control* from 2 to 34, *In Vitro Techniques* from 0 to 26, and *COVID-19* appeared de novo (28). The trajectory shows maturation from an essential-medicines/affordability literature toward an explicit vaccines-quality-and-pandemic-response literature and, in parallel, a health-systems and policy framing of reliance.
+Across the three windows, the field's centre of gravity moved markedly (Figure 8; inter-window flow in Figure 9). In 2000–2009 the literature was small and anchored on *Essential* (40), *Drug Costs* (9), *Drug Utilization* (8), and *Guideline* (12). In 2010–2017 it expanded around *Universal Health Insurance* (85), *Pharmaceutical Preparations* (52), *Health Services Accessibility* (33), and *Europe* (10). In 2018 onward, *Vaccines* rose from 3 to 51, *World Health Organization* from 2 to 46, *Health Policy* from 0 to 59, *Quality Control* from 2 to 34, *In Vitro Techniques* from 0 to 26, and *COVID-19* appeared de novo (28). The trajectory shows maturation from an essential-medicines/affordability literature toward an explicit vaccines-quality-and-pandemic-response literature and, in parallel, a health-systems and policy framing of reliance.
 
 ### 3.9 Qualitative synthesis of highly cited works
 
