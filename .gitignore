@@ -25,3 +25,7 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# High-resolution TIFF masters are large; keep PNG in repo, TIFF locally
+figures/**/*.tif
+figures/*.tif
