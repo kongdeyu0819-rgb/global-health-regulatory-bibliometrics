@@ -72,7 +72,7 @@ We acknowledge several constraints. Country coverage is partial (27.3% of record
 *Figure 6. Keyword co-occurrence heatmap (Top 25 keywords). [figures/xt_png/heatmap_keywords-1.png]*
 *Figure 7. Keyword co-occurrence clustering into three thematic groups. [figures/_matplotlib_alt/keyword_cluster_bars.png]*
 *Figure 8. Thematic evolution by cluster (stacked). [figures/xt_png/bar_stack_thematic-1.png]*
-*Figure 9. Thematic evolution flow between time windows (Sankey). [figures/xt_png/sankey_evolution-1.png]*
+*Figure 9. Thematic evolution across three time windows (alluvial Sankey). Each column is a time window; segment height = the cluster's share of that window; ribbon width = persistence of the same theme between consecutive windows; exact counts are annotated. [figures/_matplotlib_alt/sankey_evolution_matplotlib.png]*
 
 ---
 
@@ -111,7 +111,7 @@ Burst detection identified topics rising fastest in the recent period. The stron
 
 ### 3.8 Thematic evolution
 
-Across the three windows, the field's centre of gravity moved markedly (Figure 8; inter-window flow in Figure 9). In 2000–2009 the literature was small and anchored on *Essential* (40), *Drug Costs* (9), *Drug Utilization* (8), and *Guideline* (12). In 2010–2017 it expanded around *Universal Health Insurance* (85), *Pharmaceutical Preparations* (52), *Health Services Accessibility* (33), and *Europe* (10). In 2018 onward, *Vaccines* rose from 3 to 51, *World Health Organization* from 2 to 46, *Health Policy* from 0 to 59, *Quality Control* from 2 to 34, *In Vitro Techniques* from 0 to 26, and *COVID-19* appeared de novo (28). The trajectory shows maturation from an essential-medicines/affordability literature toward an explicit vaccines-quality-and-pandemic-response literature and, in parallel, a health-systems and policy framing of reliance.
+Across the three windows, the field's centre of gravity moved markedly (Figure 8; proportional inter-window flow in Figure 9). In 2000–2009 the literature was small and anchored on *Essential* (40), *Drug Costs* (9), *Drug Utilization* (8), and *Guideline* (12). In 2010–2017 it expanded around *Universal Health Insurance* (85), *Pharmaceutical Preparations* (52), *Health Services Accessibility* (33), and *Europe* (10). In 2018 onward, *Vaccines* rose from 3 to 51, *World Health Organization* from 2 to 46, *Health Policy* from 0 to 59, *Quality Control* from 2 to 34, *In Vitro Techniques* from 0 to 26, and *COVID-19* appeared de novo (28). The trajectory shows maturation from an essential-medicines/affordability literature toward an explicit vaccines-quality-and-pandemic-response literature and, in parallel, a health-systems and policy framing of reliance.
 
 ### 3.9 Qualitative synthesis of highly cited works
 
