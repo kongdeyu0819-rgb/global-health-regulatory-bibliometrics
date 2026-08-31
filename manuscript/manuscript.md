@@ -72,7 +72,7 @@ We acknowledge several constraints. Country coverage is partial (27.3% of record
 *Figure 6. Keyword co-occurrence heatmap (Top 25 keywords). [figures/xt_png/heatmap_keywords-1.png]*
 *Figure 7. Keyword co-occurrence clustering into three thematic groups. [figures/_matplotlib_alt/keyword_cluster_bars.png]*
 *Figure 8. Thematic evolution by cluster (stacked). [figures/xt_png/bar_stack_thematic-1.png]*
-*Figure 9. Thematic composition and evolution of the three clusters (alluvial Sankey). Left column = cluster; middle column = keyword frequency in 2000-2017; right column = keyword frequency in 2018 onward. Ribbons show how each cluster's keywords persist or grow between the two periods; emergent keywords (e.g., COVID-19) appear only in the right column. [figures/xt_png/sankey_evolution-1.png]*
+*Figure 9. Three-layer alluvial Sankey of thematic evolution. Left column = the three thematic clusters; middle column = the 20 representative keywords; right column = the three time windows (2000–2009, 2010–2017, 2018 onward). Ribbon widths are proportional to keyword occurrence counts within each window; counts derive from keyword co-occurrence clustering and burst detection (Sections 3.6–3.7). [figures/xt_png/sankey_evolution-1.png]*
 
 ---
 
