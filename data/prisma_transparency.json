@@ -7,13 +7,23 @@
     "Europe PMC (UNICEF/WHO policy)": 95
   },
   "total_identified": 16846,
-  "local_additional": 50,
+  "chinese_other_source": {
+    "identified": 8,
+    "included": 8,
+    "type": "targeted full-text retrieval from Chinese databases (CNKI/Wanfang/Weipu, Appendix B)",
+    "funnel": "no systematic funnel (identified = included)"
+  },
   "duplicates_removed": 2892,
   "unique_after_dedup": 13954,
-  "excluded_relevance": 11941,
-  "search_included": 2013,
-  "final_included": 2063,
-  "corpus_csv_rows": 2063,
-  "screening_replication_fail": 0,
-  "note": "机制流(PubMed/EPMC/WHO IRIS mechanism)经 is_relevant=HP_TERMS∩CONTEXT 过滤; 可及性政策流(WHO IRIS access / EPMC policy)经 ACCESS_POLICY_RE 过滤; 本地库人工裁定不过滤。漏斗数字以 corpus.csv 为权威反推(残差法), 保证与最终语料自洽。"
+  "excluded_relevance": 11891,
+  "three_source_included": 2063,
+  "local_in_corpus": {
+    "records": 50,
+    "meaning": "records held in a curated institutional document collection; folded into the three-source count rather than reported as a separate PRISMA stream",
+    "distribution": "50 of 2,063; see source == 'local' in paperA_corpus.csv"
+  },
+  "final_included": 2071,
+  "corpus_csv_rows": 2071,
+  "screening_replication_fail": 49,
+  "note": "PRISMA 2020 two-column flow: Column 1 = three-source systematic database search (16,846 identified → 2,892 duplicates removed → 13,954 screened → 11,891 excluded → 2,063 included); Column 2 = targeted Chinese-language retrieval (identified 8 = included 8); final analytical corpus = 2071. 50 records held in a curated institutional document collection are folded into the three-source count; 49 of the non-Chinese records do not reproduce under automated relevance screening, reflecting manual adjudication of that collection."
 }
