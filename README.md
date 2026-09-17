@@ -88,21 +88,32 @@ Attribution: cite this repository and the accompanying manuscript.
 
 ## How to cite
 
-> Kong D, et al. Regulatory reliance for medicines access in low- and middle-income
+> Kong D, Huang M. Regulatory reliance for medicines access in low- and middle-income
 > countries: derived data and reproducible code (2000–2026).
 > GitHub: https://github.com/kongdeyu0819-rgb/global-health-regulatory-bibliometrics
-> [Zenodo DOI to be added after archiving].
+> Zenodo: https://doi.org/10.5281/zenodo.22814432
 
-A versioned DOI is minted automatically via the GitHub–Zenodo integration when a
-release is published (see `.zenodo.json`).
+The archive is minted automatically by the GitHub–Zenodo integration whenever a
+GitHub release is published (see `.zenodo.json`).
 
-## Notes for the authors (finalize before archiving)
+| DOI | Meaning |
+| --- | --- |
+| `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version. This is the DOI cited in the manuscript. |
+| `10.5281/zenodo.22814433` | Version DOI — release `v2.0.0`, archived 2026-09-17. Cite this one if you need to cite the exact snapshot. |
 
-- `.zenodo.json` `creators` must be checked against the final author list before archiving.
-- **Zenodo DOI not yet minted.** Releases exist on GitHub, but a Zenodo DOI requires a one-time
-  action by the depositor: log in at <https://zenodo.org> with the GitHub account, authorise the
-  Zenodo GitHub App, enable this repository, then press *Publish* on the release to archive.
+Record page: <https://zenodo.org/records/22814433>
+
+## Notes for the authors
+
+- `.zenodo.json` `creators` has been checked against the submitted author list
+  (Deyu Kong, first author, Wangjing Hospital of CACMS with aSSIST University as
+  second affiliation; Minghao Huang, corresponding author, aSSIST University).
+  Professor Ming Xu (Peking University) is acknowledged in the manuscript but is not
+  an author and is not listed as a creator here.
 - The 50 `local` records are disclosed in Methods §2.1 and §2.2 of the manuscript and counted
   inside the 2,063; see `local_in_corpus` in `prisma_transparency.json`.
-- `manuscript/paper_HPP_new.docx` is a stale intermediate build from the lock-file workaround;
-  delete before publishing the repository.
+- `manuscript/paper_HPP_new.docx` is a stale intermediate build from the lock-file
+  workaround; the authoritative submission file is `manuscript/paper_HPP.docx`.
+- `code/zenodo_deposit.py` is an optional helper that packages this repository and
+  uploads it to Zenodo directly (bypassing the GitHub integration). It needs a
+  Zenodo personal access token and is not required for normal use.
