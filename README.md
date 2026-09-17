@@ -98,11 +98,12 @@ GitHub release is published (see `.zenodo.json`).
 
 | DOI | Meaning |
 | --- | --- |
-| `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version (currently `v3.0.0`). This is the DOI cited in the manuscript. |
-| `10.5281/zenodo.22814664` | Version DOI — release `v3.0.0`, archived 2026-09-17. Cite this one to pin the exact snapshot. |
+| `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version (currently `v4.0.0`). This is the DOI cited in the manuscript. |
+| `10.5281/zenodo.22815191` | Version DOI — release `v4.0.0`, archived 2026-09-17. Cite this one to pin the exact snapshot. |
+| `10.5281/zenodo.22814664` | Version DOI — release `v3.0.0`, archived 2026-09-17 (superseded). |
 | `10.5281/zenodo.22814433` | Version DOI — release `v2.0.0`, archived 2026-09-17 (superseded). |
 
-Record page: <https://zenodo.org/records/22814664>
+Record page: <https://zenodo.org/records/22815191>
 
 ## Notes for the authors
 
