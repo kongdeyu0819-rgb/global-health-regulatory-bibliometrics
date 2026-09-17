@@ -113,8 +113,8 @@ Record page: <https://zenodo.org/records/22814664>
   an author and is not listed as a creator here.
 - The 50 `local` records are disclosed in Methods §2.1 and §2.2 of the manuscript and counted
   inside the 2,063; see `local_in_corpus` in `prisma_transparency.json`.
-- `manuscript/paper_HPP_new.docx` is a stale intermediate build from the lock-file
-  workaround; the authoritative submission file is `manuscript/paper_HPP.docx`.
+- `manuscript/paper_HPP.docx` is the authoritative submission file; stale intermediate
+  builds have been removed.
 - `code/zenodo_deposit.py` is an optional helper that packages this repository and
   uploads it to Zenodo directly (bypassing the GitHub integration). It needs a
   Zenodo personal access token and is not required for normal use.
