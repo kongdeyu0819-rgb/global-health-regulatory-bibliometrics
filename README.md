@@ -99,6 +99,7 @@ GitHub release is published (see `.zenodo.json`).
 | DOI | Meaning |
 | --- | --- |
 | `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version. This is the DOI cited in the manuscript and in the journal's data availability statement. |
+| `10.5281/zenodo.22845321` | Version DOI — release `v5.0.0`, archived 2026-09-19. Current version; carries the final six-author byline. |
 | `10.5281/zenodo.22815191` | Version DOI — release `v4.0.0`, archived 2026-09-17 (superseded; its metadata still lists the pre-final author list). |
 | `10.5281/zenodo.22814664` | Version DOI — release `v3.0.0`, archived 2026-09-17 (superseded). |
 | `10.5281/zenodo.22814433` | Version DOI — release `v2.0.0`, archived 2026-09-17 (superseded). |
