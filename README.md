@@ -2,7 +2,7 @@
 
 Companion data and reproducible code for a bibliometric and thematic review of
 regulatory reliance for **medicines access in low- and middle-income countries (LMICs)**,
-2000–2026, submitted to *Health Policy and Planning*.
+2000–2026, submitted to the *International Journal of Health Planning and Management*.
 
 Corpus: **2,071 records** = 2,063 from a three-source systematic database search
 (PubMed, Europe PMC, WHO IRIS) + 8 from a supplementary Chinese-language retrieval
@@ -88,8 +88,8 @@ Attribution: cite this repository and the accompanying manuscript.
 
 ## How to cite
 
-> Kong D, Huang M. Regulatory reliance for medicines access in low- and middle-income
-> countries: derived data and reproducible code (2000–2026).
+> Kong D, Li M, Yu H, Huang B, Jing J, Dong J. Regulatory reliance for medicines access in
+> low- and middle-income countries: derived data and reproducible code (2000–2026).
 > GitHub: https://github.com/kongdeyu0819-rgb/global-health-regulatory-bibliometrics
 > Zenodo: https://doi.org/10.5281/zenodo.22814432
 
@@ -98,24 +98,36 @@ GitHub release is published (see `.zenodo.json`).
 
 | DOI | Meaning |
 | --- | --- |
-| `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version (currently `v4.0.0`). This is the DOI cited in the manuscript. |
-| `10.5281/zenodo.22815191` | Version DOI — release `v4.0.0`, archived 2026-09-17. Cite this one to pin the exact snapshot. |
+| `10.5281/zenodo.22814432` | Concept DOI — always resolves to the latest archived version. This is the DOI cited in the manuscript and in the journal's data availability statement. |
+| `10.5281/zenodo.22815191` | Version DOI — release `v4.0.0`, archived 2026-09-17 (superseded; its metadata still lists the pre-final author list). |
 | `10.5281/zenodo.22814664` | Version DOI — release `v3.0.0`, archived 2026-09-17 (superseded). |
 | `10.5281/zenodo.22814433` | Version DOI — release `v2.0.0`, archived 2026-09-17 (superseded). |
 
-Record page: <https://zenodo.org/records/22815191>
+Cite the **concept DOI** unless you need to pin an exact snapshot. Earlier versions
+carry an outdated author list; only the current version reflects the final byline.
 
 ## Notes for the authors
 
 - `.zenodo.json` `creators` has been checked against the submitted author list
-  (Deyu Kong, first author, Wangjing Hospital of CACMS with aSSIST University as
-  second affiliation; Minghao Huang, corresponding author, aSSIST University).
+  (Deyu Kong, MSc, first author, ORCID 0009-0002-3621-5719; Mingxing Li and Hongxia Yu;
+  Bingbing Huang, ORCID 0009-0003-6669-5327, and Jiaxin Jing, ORCID 0009-0005-1566-5173, both
+  Tianjin College, University of Science and Technology Beijing; Professor Jige Dong,
+  corresponding author, ORCID 0009-0006-5606-8305. All authors other than Huang and Jing are
+  at the Rehabilitation Division, Wangjing Hospital of CACMS; Kong also holds aSSIST
+  University as a second affiliation).
   Professor Ming Xu (Peking University) is acknowledged in the manuscript but is not
   an author and is not listed as a creator here.
 - The 50 `local` records are disclosed in Methods §2.1 and §2.2 of the manuscript and counted
   inside the 2,063; see `local_in_corpus` in `prisma_transparency.json`.
-- `manuscript/paper_HPP.docx` is the authoritative submission file; stale intermediate
-  builds have been removed.
+- `manuscript/manuscript.md` is the authoritative source text. It is compiled by
+  `build_submission_ijhpm.py` into the submission package for the *International Journal
+  of Health Planning and Management* (Wiley): main document, cover letter, author
+  biographies, search-strategy appendices and PRISMA 2020 checklist.
+  The journal operates **single-blind** peer review and Research Exchange provides no
+  separate title-page slot, so the title-page material (byline, affiliations, ORCID iDs,
+  corresponding author) sits at the head of the main document rather than in a separate
+  file. `manuscript/paper_HPP.docx` is the superseded draft prepared for *Health Policy
+  and Planning* and is kept only for record.
 - `code/zenodo_deposit.py` is an optional helper that packages this repository and
   uploads it to Zenodo directly (bypassing the GitHub integration). It needs a
   Zenodo personal access token and is not required for normal use.

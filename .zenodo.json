@@ -1,17 +1,35 @@
 {
   "title": "Regulatory reliance for medicines access in low- and middle-income countries (2000-2026): derived data and reproducible code",
   "upload_type": "software",
-  "description": "Companion data and reproducible code for a bibliometric and thematic review of regulatory reliance for medicines access in low- and middle-income countries (2000-2026), submitted to Health Policy and Planning. Contains the derived 2,071-record corpus (2,063 from a three-source systematic database search of PubMed, Europe PMC and WHO IRIS, plus 8 from a supplementary Chinese-language retrieval of CNKI, Wanfang and Weipu), the PRISMA 2020 transparency file, bibliometric and network analysis outputs, the nine manuscript figures, and the Python pipeline that generates them. Fifty records held in a curated institutional document collection are folded into the three-source count and their full texts are not redistributed; only extracted metadata are published. Raw API dumps and copyrighted journal PDFs used for style calibration are excluded.",
+  "description": "Companion data and reproducible code for a bibliometric and thematic review of regulatory reliance for medicines access in low- and middle-income countries (2000-2026), submitted to the International Journal of Health Planning and Management. Contains the derived 2,071-record corpus (2,063 from a three-source systematic database search of PubMed, Europe PMC and WHO IRIS, plus 8 from a supplementary Chinese-language retrieval of CNKI, Wanfang and Weipu), the PRISMA 2020 transparency file, bibliometric and network analysis outputs, the nine manuscript figures, and the Python pipeline that generates them. Fifty records held in a curated institutional document collection are folded into the three-source count and their full texts are not redistributed; only extracted metadata are published. Raw API dumps and copyrighted journal PDFs used for style calibration are excluded.",
   "creators": [
     {
       "name": "Kong, Deyu",
-      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China; aSSIST University (Seoul School of Integrated Sciences and Technologies), Seoul, Republic of Korea",
+      "affiliation": "Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China; aSSIST University (Seoul School of Integrated Sciences and Technologies), Seoul, Republic of Korea",
       "orcid": "0009-0002-3621-5719"
     },
     {
-      "name": "Huang, Minghao",
-      "affiliation": "aSSIST University (Seoul School of Integrated Sciences and Technologies), Seoul, Republic of Korea",
-      "orcid": "0000-0001-9129-1744"
+      "name": "Li, Mingxing",
+      "affiliation": "Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China"
+    },
+    {
+      "name": "Yu, Hongxia",
+      "affiliation": "Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China"
+    },
+    {
+      "name": "Huang, Bingbing",
+      "affiliation": "Tianjin College, University of Science and Technology Beijing, Tianjin, China",
+      "orcid": "0009-0003-6669-5327"
+    },
+    {
+      "name": "Jing, Jiaxin",
+      "affiliation": "Tianjin College, University of Science and Technology Beijing, Tianjin, China",
+      "orcid": "0009-0005-1566-5173"
+    },
+    {
+      "name": "Dong, Jige",
+      "affiliation": "Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China",
+      "orcid": "0009-0006-5606-8305"
     }
   ],
   "license": "cc-by-4.0",
@@ -35,6 +53,6 @@
       "resource_type": "software"
     }
   ],
-  "notes": "Creators reflect the submitted author configuration (Deyu Kong, first author, primary affiliation Wangjing Hospital of China Academy of Chinese Medical Sciences with aSSIST University as second affiliation; Minghao Huang, corresponding author, aSSIST University). Professor Ming Xu (Peking University) is acknowledged in the manuscript but is not an author. The GitHub URL above assumes the repository is named global-health-regulatory-bibliometrics; update if renamed.",
-  "version": "1.0"
+  "notes": "Creators reflect the submitted author configuration (Deyu Kong, first author, primary affiliation Wangjing Hospital of China Academy of Chinese Medical Sciences with aSSIST University as second affiliation; Bingbing Huang and Jiaxin Jing, Tianjin College, University of Science and Technology Beijing; Jige Dong, corresponding author, Wangjing Hospital of China Academy of Chinese Medical Sciences). Professor Ming Xu (Peking University) is acknowledged in the manuscript but is not an author. The GitHub URL above assumes the repository is named global-health-regulatory-bibliometrics; update if renamed.",
+  "version": "5.0.0"
 }
